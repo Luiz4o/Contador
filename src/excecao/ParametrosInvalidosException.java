@@ -4,10 +4,9 @@
  */
 package excecao;
 
-/**
- *
- * @author henri
- */
+
+import java.util.InputMismatchException;
+
 public class ParametrosInvalidosException extends RuntimeException {
     
 }
